@@ -1,6 +1,6 @@
 # Burden_colocalisation_analysis_3D
 
-This script is designed to analyse the surface of a channel that colocalize with up to 3 other channels. Also reports the percent of image are occupied by the main channel.
+This script is designed to analyse the surface of a channel that colocalize with up to 3 other channels. Also reports the percent of image volume occupied by the main channel.
 
 ## Scripts
 -	The two needed scripts should be saved into the same folder (i.e **Scripts**).
